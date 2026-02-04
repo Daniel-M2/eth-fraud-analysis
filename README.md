@@ -48,9 +48,9 @@ In detecting fraud transactions, multiple supervised machine learning models are
 * Python Script
 
 ## Reference
-- [Crypto Hacks Report]('https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2025/')
-- [Top 10 Biggest CEXs Hacks in History]('https://crystalintelligence.com/investigations/the-10-biggest-crypto-hacks-in-history/')
-- [MIT Brothers Ethereum Fraud]('https://www.theblock.co/post/378414/prosecutors-seek-new-trial-mit-brothers-25-million-ethereum-fraud-case-ends-mistrial')
+- [Crypto Hacks Report](https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2025/)
+- [Top 10 Biggest CEXs Hacks in History](https://crystalintelligence.com/investigations/the-10-biggest-crypto-hacks-in-history/)
+- [MIT Brothers Ethereum Fraud](https://www.theblock.co/post/378414/prosecutors-seek-new-trial-mit-brothers-25-million-ethereum-fraud-case-ends-mistrial)
 - [Faheem U.R.S. (2024)](https://medium.com/@faheemsiddiqi789/how-can-i-determine-if-my-data-is-balanced-or-imbalanced-080819af408c)
 - [Schober *et al.,* 2018](https://www.researchgate.net/publication323388613_Correlation_Coefficients_Appropriate_Use_and_Interpretation)
 
@@ -58,4 +58,5 @@ In detecting fraud transactions, multiple supervised machine learning models are
 
 **Additional Reference:**
 - [ERC-20 Token List](https://etherscan.io/tokens)
+
 - [Ethereum Smart Contract Video](https://www.youtube.com/watch?v=qAgkGOPyLrk)
