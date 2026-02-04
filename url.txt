@@ -1,0 +1,5 @@
+These are the required links:
+
+1. Dataset URL = 'https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset'
+2. Model URL = 'https://drive.google.com/file/d/18y6o_zylMxVGl7r8Ob7q_CIPp2vbd3IZ/view?usp=sharing'
+3. Deployment URL = 'https://huggingface.co/spaces/dcm2/deployment'
